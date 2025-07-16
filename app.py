@@ -15,7 +15,7 @@ def home():
                 margin: 0;
                 padding: 0;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                background-image: url('https://raw.githubusercontent.com/kbgyazilim46/Yenisite/main/background.jpg'); /* Burayı kendi fotoğraf URL’inle değiştir */
+                background-image: url('https://raw.githubusercontent.com/kbgyazilim46/Yenisite/main/logo.jpg'); /* Burayı kendi fotoğraf URL’inle değiştir */
                 background-size: cover;
                 background-position: center;
                 background-attachment: fixed;
@@ -60,7 +60,7 @@ def home():
             <h1>Ahmet Utku Can</h1>
             <p><strong>Bilgi:</strong><br>
             Ahmet Utku Can, yani sanal adıyla <strong>Kimsebaşgöz</strong>, 2016 yılında sanala giriş yapmıştır.
-            Şu anda <strong>Kimsebaşgöz</strong> ve <strong>Pars Family</strong> kurucusu olarak sanalda gezmektedir.</p>
+            Şu anda <strong>Kimsebaşgöz</strong> ve <strong>HAYALET FAMİLY</strong> kurucusu olarak sanalda gezmektedir.</p>
 
             <h3>İlgi Alanları</h3>
             <ul>
@@ -73,7 +73,7 @@ def home():
             <div class="contact">
                 <p><strong>Instagram:</strong></p>
                 <ul>
-                    <li>@_pars.bas.krc.kimsebasgoz</li>
+                    <li>@_hayalet.bas.krc.kimsebasgoz</li>
                     <li>@_kimsebasgoz.her.da1m_</li>
                 </ul>
                 <p><strong>WhatsApp:</strong> +639092363984</p>
